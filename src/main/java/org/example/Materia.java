@@ -1,4 +1,4 @@
-package facultad;
+package org.example;
 
 import lombok.Getter;
 import lombok.Setter;
